@@ -1,1 +1,3 @@
 vpc intial version 
+
+writeTOsm as true
