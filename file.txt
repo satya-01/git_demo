@@ -1,3 +1,5 @@
 vpc intial version 
 
 writeTOsm as true
+
+Mode_debu is enabled
