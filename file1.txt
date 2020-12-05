@@ -1,1 +1,2 @@
 working with unix flows
+writetosm as true
